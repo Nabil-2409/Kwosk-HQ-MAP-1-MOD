@@ -5,7 +5,7 @@ but don't worry u can revert the changes
 
 How to Install The map
 
-First Download the Kwosk.rar given (may say dangerous but keep it ,it is safe by https://virustotal.com )
+First Download the Kwosk.rar given (may say dangerous but keep it ,it is safe by https://virustotal.com )      
 Then Extract it.  
 then u should get the following files:-  
     -Kwosk HQ MAP 1.json  
