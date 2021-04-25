@@ -23,6 +23,6 @@ if it says cant find among us then press ok and then select Among us.exe
 it should say The map has been Installed   
 
 If you wanna play with friends they should also have this map installed   
-if they dont know how to install the give this github website
+if they dont know how to install then give this github website - https://github.com/Nabil-2409/Kwosk-HQ-MAP-1-MOD
 
 hope u like it(my first map i made)
