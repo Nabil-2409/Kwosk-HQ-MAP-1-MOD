@@ -2,6 +2,7 @@
 This is a MAP MOD    
 This will exchange your polus map with Kwosk Map
 but don't worry u can revert the changes
+Only works in pc
 
 How to Install The map
 
