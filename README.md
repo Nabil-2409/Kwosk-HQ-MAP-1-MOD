@@ -1,4 +1,5 @@
-# Kwosk-HQ-MAP-1-MOD
+# Kwosk-HQ-MAP-1-MOD (Made Using www.levelimposter.net)
+i am distributing LevelImposter app i order for my map to work
 This is a MAP MOD    
 This will exchange your polus map with Kwosk Map
 but don't worry u can revert the changes
